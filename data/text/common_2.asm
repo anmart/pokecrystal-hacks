@@ -301,9 +301,8 @@ UnknownText_0x1c05c8::
 	prompt
 
 UnknownText_0x1c05dd::
-	text_ram wStringBuffer2
-	text " used"
-	line "CUT!"
+	text "You cut some"
+	line "plants!"
 	prompt
 
 UnknownText_0x1c05ec::
