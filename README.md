@@ -1,4 +1,18 @@
-# Pokémon Crystal [![Build Status][travis-badge]][travis]
+# Pokemon Crystal Hacks
+This is a collection of all the hacks I've created using the pret disassembly of [pokemon Crystal](https://github.com/pret/pokecrystal). This repo will fall behind pret's, only pulling when I want to work on a new hack.
+
+Every hack is set up as a branch of this repo, with _patch\__ as a prefix
+
+## Included Hacks
+
+* [Item that acts like Cut Field Move](https://github.com/anmart/pokecrystal-hacks/tree/patch_ItemFieldMoves)
+  * Replaces a dummy item with a chainsaw that acts like the HM Cut
+  * Example for a wiki article I wrote for pokecrystal
+
+
+## Below is a duplicate of the original README
+
+### Pokémon Crystal
 
 This is a disassembly of Pokémon Crystal.
 
@@ -10,7 +24,7 @@ It builds the following ROMs:
 
 To set up the repository, see [INSTALL.md](INSTALL.md).
 
-## See also
+### See also
 
 - [**FAQ**](FAQ.md)
 - [**Documentation**][docs]
