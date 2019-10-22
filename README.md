@@ -7,7 +7,7 @@ Every hack is set up as a branch of this repo, with _patch\__ as a prefix
 
 * [Item that acts like Cut Field Move](https://github.com/anmart/pokecrystal-hacks/tree/patch_ItemFieldMoves)
   * Replaces a dummy item with a chainsaw that acts like the HM Cut
-  * Example for a wiki article I wrote for pokecrystal
+  * Example for [a wiki article](https://github.com/pret/pokecrystal/wiki/Adding-items-that-act-like-HMs) I wrote for pokecrystal
 
 
 ## Below is a duplicate of the original README
